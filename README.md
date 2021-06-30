@@ -11,16 +11,3 @@ The main objectives of the project are to apply knowledge for :
 - Publish results and present it 
 
 
-## Strive school Build Week 01
-
-### WebScraping:
-  Umut Aktas
-  
-### Data Analysis:
-  Hedaya Ali
-  
-### Web Page Implementation
-  Shahid Qureshi
-  
-### GitHub Coordinator
-  Udawala Hewage Kanishka Dilan
