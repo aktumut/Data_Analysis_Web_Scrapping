@@ -10,4 +10,4 @@ The main objectives of the project are to apply knowledge for :
 - Hypothesis Testing
 - Publish results and present it 
 
-
+![image](images/python.png)
